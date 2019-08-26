@@ -1,6 +1,6 @@
 # example-percy-puppeteer
 
-Example app showing integration of [Percy](https://percy.io/) visual testing into Puppeteer tests.
+example app showing integration of [Percy](https://percy.io/) visual testing into Puppeteer tests.
 
 Based on the [TodoMVC](https://github.com/tastejs/todomvc)
 [Vanilla-ES6](https://github.com/tastejs/todomvc/tree/master/examples/vanilla-es6)
